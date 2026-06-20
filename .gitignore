@@ -1,0 +1,10 @@
+/target/
+/data/
+/_netbeans-original/
+.idea/
+.vscode/
+nbproject/private/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
