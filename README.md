@@ -17,7 +17,7 @@ Este proyecto moderniza un trabajo original desarrollado en NetBeans durante la 
 
 ## Tecnologías
 
-- Java 21.
+- Java 25.
 - Swing.
 - JDBC.
 - H2 Database.
@@ -26,7 +26,7 @@ Este proyecto moderniza un trabajo original desarrollado en NetBeans durante la 
 
 ## Ejecutar
 
-Requisito: JDK 21. El Maven Wrapper ya está incluido.
+Requisito: JDK 25. El Maven Wrapper ya está incluido.
 
 ```bash
 ./mvnw clean package
