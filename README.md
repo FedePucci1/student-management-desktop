@@ -1,5 +1,7 @@
 # Student Management Desktop
 
+![Vista de la aplicación con datos ficticios](docs/demo.png)
+
 Aplicación Java de escritorio para administrar alumnos: altas, edición, búsqueda, seguimiento académico y bajas lógicas.
 
 Este proyecto moderniza un trabajo original desarrollado en NetBeans durante la cursada de Programación. La edición actual consolida cinco subproyectos antiguos en una sola aplicación, elimina instaladores y dependencias manuales, corrige problemas de validación y ofrece persistencia embebida reproducible.
